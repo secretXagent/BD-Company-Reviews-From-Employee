@@ -15,9 +15,8 @@ Please see below for a list of contributions to this repository. To read more ab
 ### 1. [DemoCompanyRespone](company-response/demoCompnayResponse.md)
 
 
-
-## Code of conduct
-To ensure that this repository remains a safe and supportive space for everyone to share their experiences, we have established a [code of conduct](https://github.com/secretXagent/BD-Software-Industry-Bad-Company-Experiences-Repository/blob/main/CODE_OF_CONDUCT.md) Please review the code of conduct before contributing, and make sure to follow the guidelines outlined therein.
+## [Contribute](https://github.com/secretXagent/BD-Software-Industry-Bad-Company-Experiences-Repository/blob/main/HOW_TO_CONTRIBUTE.md) 
+## [Code of conduct](https://github.com/secretXagent/BD-Software-Industry-Bad-Company-Experiences-Repository/blob/main/CODE_OF_CONDUCT.md)
 
 ## Disclaimer
 Please note that the information in this repository is provided by individual contributors and may not necessarily reflect the views or opinions of the repository maintainers. We do not endorse or condone any illegal activity, and any contributions that violate our code of conduct or that contain false or misleading information will be removed.
