@@ -1,14 +1,20 @@
 # BD Software Industry Bad Company Experiences Repository
 Welcome to the BD Software Industry Bad Company Experiences Repository. This repository is a space where individuals can share their negative experiences with companies in the BD software industry, along with legal proof to support their claims.
 
-## Contributions
+## Employee Experience
 
 Please see below for a list of contributions to this repository. To read more about a specific contribution, simply click on the corresponding link.
 
 
 ### 1. [DemoCompany- DemoContributor](experiences/demoCompanyName-demoContributorName.md)
 
-## How to Contribute
+
+## Company Response
+
+Please see below for a list of contributions to this repository. To read more about a specific contribution, simply click on the corresponding link.
+
+
+## How to Contribute for employees
 
 To contribute to this repository, please follow the steps below:
 
@@ -25,6 +31,23 @@ To contribute to this repository, please follow the steps below:
    - Any other relevant details that may be helpful to others who are considering working with or for this company
 
 5. Once you have finished your contribution, submit a pull request to the main repository. Please provide a clear and detailed description of your changes and any additional context that may be helpful.
+
+## How to Contribute for Company Response
+
+We believe in transparency and fairness, and we welcome the opportunity to respond to any negative reviews that we believe to be untrue or misleading. If you believe that a review posted in this repository is inaccurate, please follow the steps below:
+
+1. Create a new Markdown file in the `company-responses` directory with a descriptive filename (e.g., `company-name-response.md`).
+2. In the Markdown file, include the following details:
+
+   - Your name and contact information (email, phone number, or other preferred method of contact)
+   - The name of the employee who posted the negative review
+   - The nature of the allegations made in the review
+   - Any evidence or documentation that you have to support your response (e.g., employee performance evaluations, HR reports, etc.)
+   - Your response to the allegations made in the review
+
+3. Once you have finished your response, submit a pull request to the main repository. Please provide a clear and detailed description of your changes and any additional context that may be helpful.
+
+We will review all company responses submitted through this process and post them in the `company-responses` directory for transparency. Please note that we reserve the right to remove any reviews or responses that we believe to be false or malicious.
 
 
 ## Code of conduct
